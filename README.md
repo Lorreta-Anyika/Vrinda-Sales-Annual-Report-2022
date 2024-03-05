@@ -8,7 +8,7 @@ This data analysis project aims to provide insights into the sales performance o
 ### Data Sources
 
 Sales Data: The primary dataset for this analysis is the "Vrinda Store Data analysis.xlsx" file, containing detailed information about the sales made.
-
+[Download here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frishabhnmishra%2FExcel_Vrinda_Store_Analysis%2Fmain%2FVrinda%2520Store%2520Data%2520Analysis.xlsx&wdOrigin=BROWSELINK)
 ---
 
 ### Tools
@@ -72,4 +72,8 @@ Based on the analysis, I recommend the following actions:
 ### Limitations
 
 None
+
+### Refrences
+[Rishab Mishra](https://www.youtube.com/watch?v=gTK5rNhWJyA&t=254s)
+[Her Data projects](https://www.youtube.com/watch?v=0N9xekdKCwk&list=PPSV)
 
