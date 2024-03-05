@@ -1,5 +1,5 @@
 # Vrinda Stores Sales Analysis
---
+---
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of Vrinda store in the year 2022. By analyzing the aspects such as order and sales by gender, channel, age group, month, etc, I seek to understand and identify trends, make data-driven recommendation, and gain a deeper understanding of Vrinda store performance.
@@ -54,7 +54,22 @@ Using pivotTable, I created charts for:
 ### Results/ Findings
 
 The analyss results are summarized as follows:
-1. August had the highest sales
+1. March had the highest sales
 2. Women purchase more than men
-3. Maharatrash has the highest sales by state. 
+3. Maharatrash has the highest sales by state.
+
+---
+
+### Recommendations
+
+Based on the analysis, I recommend the following actions:
+
+1. Provide more of female wears since those are their customers
+2. efforts must be made to idenfify why sales drop dratsically from August and act accordingly.
+
+---
+
+### Limitations
+
+None
 
