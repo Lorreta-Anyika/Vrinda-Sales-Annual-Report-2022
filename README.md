@@ -31,12 +31,12 @@ I performed the following in the data preparation phase
 ### Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions:
-1. Compare the sales and orderds using chart
-2. which month got the highest sales and orders?
+1. Compare the sales and orders using chart
+2. Which month got the highest sales and orders?
 3. Who purchased more-men or women in 2022?
 4. What are differnt order status in 2022?
 5. List top 10 states contributing to the sales?
-6. Relaton between age and gender based on number
+6. Relation between age and gender based on number
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
 
@@ -66,7 +66,7 @@ The analyss results are summarized as follows:
 
 Based on the analysis, I recommend the following actions:
 
-1. Provide more of female wears since those are their customers
+1. Provide more of female products since those are their main customers
 2. efforts must be made to idenfify why sales drop dratsically from August and act accordingly.
 
 ---
