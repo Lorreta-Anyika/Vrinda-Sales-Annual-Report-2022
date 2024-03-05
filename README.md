@@ -5,6 +5,8 @@
 This data analysis project aims to provide insights into the sales performance of Vrinda store in the year 2022. By analyzing the aspects such as order and sales by gender, channel, age group, month, etc, I seek to understand and identify trends, make data-driven recommendation, and gain a deeper understanding of Vrinda store performance.
 ---
 
+![Screenshot (24)](https://github.com/Uccodes/Vrinda-Sales-Annual-Report-2022/assets/122783699/afef9a56-617c-4f70-92ce-d25eb6cc364d)
+
 ### Data Sources
 
 Sales Data: The primary dataset for this analysis is the "Vrinda Store Data analysis.xlsx" file, containing detailed information about the sales made.
