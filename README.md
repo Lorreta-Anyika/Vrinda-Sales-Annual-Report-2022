@@ -75,7 +75,7 @@ Based on the analysis, I recommend the following actions:
 
 None
 
-### Refrences
+### References
 [Rishab Mishra](https://www.youtube.com/watch?v=gTK5rNhWJyA&t=254s)
 
 
